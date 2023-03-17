@@ -1,0 +1,13 @@
+fun main () {
+
+    println ("Hello friend!")
+    println ("Lauryeah")
+
+    print("Pekerjaan : ")
+    val pekerjaan = readLine()
+
+    print("Alamat : ")
+    val alamat = readLine()
+
+    println("Pekerjaan kamu adalah $pekerjaan dan alamat kamu di $alamat")
+}
